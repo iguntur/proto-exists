@@ -1,0 +1,37 @@
+{
+  "name": "proto-exists",
+  "version": "0.0.0",
+  "description": "Check if prototype exists",
+  "license": "MIT",
+  "repository": "iguntur/proto-exists",
+  "author": {
+    "name": "Guntur Poetra",
+    "email": "poetra.guntur@gmail.com",
+    "url": "http://iguntur.starmediateknik.com"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "constructor",
+    "method",
+    "exists",
+    "function",
+    "object",
+    "class",
+    "ecmascript",
+    "ecma",
+    "prototype"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "ava": "^0.16.0",
+    "xo": "^0.16.0"
+  }
+}
